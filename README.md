@@ -106,7 +106,7 @@ Como podemos analisar na imagem logo acima deste texto que está lendo neste mom
 
 * Em sequência precisamos definir um compilador, que no nosso caso será o ***"GNU GCC Compiler"*** e em seguida, clicamos no botão *"Finish"*.
 
-  !Alt text[](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/compiler.PNG)
+  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/compiler.PNG)
 
 * Agora precisamos criar um novo arquivo, mas um arquivo especifico que a IDE entenda que é um arquivo que servirá de base para nosso programa...
 
