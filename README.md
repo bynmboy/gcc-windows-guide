@@ -2,8 +2,7 @@
 
 ## Instalando o compilador G++
 
-* Acesse o site baixo para instalar o g++ para Windows:
-  * https://jmeubank.github.io/tdm-gcc/articles/2021-05/10.3.0-release
+* Acesse o site baixo para instalar o g++ para Windows clicando [aqui](https://jmeubank.github.io/tdm-gcc/articles/2021-05/10.3.0-release)
 
 No link acima será possível desfrutar das opções de downloads para que possamos ter em nosso computador o compilador, que é responsável por transformar nossos códigos C++ em um binário executável capaz de reproduzir nosso programa ...
 
