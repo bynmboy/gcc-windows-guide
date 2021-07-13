@@ -7,7 +7,7 @@
 
 No link acima será possível desfrutar das opções de downloads para que possamos ter em nosso computador o compilador, que é responsável por transformar nossos códigos C++ em um binário executável capaz de reproduzir nosso programa ...
 
-![Alt text](./img/tdmgcc.png)
+![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/c%2B%2B.PNG)
 
 Como podemos analisar na imagem logo acima deste texto que está lendo neste momento, está claro que podemos desfrutar de 3 opções de downloads que são eles, de cima para baixo: *"tdm-gcc-webdl.exe"* que é uma opção minimalista do instalador do compilador que vai te permitir selecionar os componentes que você deseja, baixá-los e por fim, instá-los em sua máquina, em sequência temos a segunda opção *"tdm64-gcc-10.3.0-2.exe"* esta é uma opção onde baixamos um instalador mais completo, que nos permite compilarmos programas não somente para arquitetura 32bits como para 64bits também, por estar marcado, já fica nítido que será ele que vamos usar, mas vamos seguir o ritmo e e compreender a terceira opção de download, diferentemente da opção que marcamos na imagem, esta terceira opção será usada caso o seu computador esteja usando um sistema operacional Windows com arquitetura de 32bits.
 
