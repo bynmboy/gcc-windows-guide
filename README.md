@@ -17,11 +17,11 @@ Como podemos analisar na imagem logo acima deste texto que está lendo neste mom
 
 * Agora vamos selecionar qual arquitetura queremos que o nosso compilador use como base para compilar nossos códigos, no meu caso vou margar a opção de baixo que diferente da opção de cima que só compila para 32 bits, ele compilará para 32 e 64bits, e prosseguimos clicando em *"Next >"*
 
-  !Alt text[](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/gccarch.PNG)
+  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/gccarch.PNG)
 
 * Selecionamos agora onde será instalado o nosso compilador, no meu caso eu precisei procurar o diretório onde já continha à instalação que eu havia feito anteriormente, mas você pode procurar um lugar diferente, em seguida, clicamos outra vez na tecla *"Next >"*
 
-  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/dirsetup.png)
+  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/dirsetup.PNG)
 
 * E agora vamos fazer uma configuração básica do que será instalado junto do nosso compilador, como por exemplo os pacotes, então recomendo que deixe a opção *"TDM-GCC Recommnded, All Packages"* e em seguida no botão *"Install"* para darmos início na instalação propriamente dita.
 
