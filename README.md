@@ -39,25 +39,25 @@ Como podemos analisar na imagem logo acima deste texto que está lendo neste mom
 
   Creio que não é preciso mencionar que vamos clicar em *"Next >"* não é mesmo ?
 
-  * Aceite os termos de contrato e licença clicando em *"I Agree"* :
+* Aceite os termos de contrato e licença clicando em *"I Agree"* :
 
-    ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks2.PNG)
+  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks2.PNG)
 
-    * Na tela seguinte, podemos escolher quais componentes farão parte da instalação, "geralmente" por padrão já é possível visualizar que será instalado a opção mais completa, nos restando prosseguir clicando em *"Next >"*
+* Na tela seguinte, podemos escolher quais componentes farão parte da instalação, "geralmente" por padrão já é possível visualizar que será instalado a opção mais completa, nos restando prosseguir clicando em *"Next >"*
 
-      ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks3.PNG)
+   ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks3.PNG)
 
-      * Pois bem, agora vamos precisar mudar caso necessário, o lugar (*diretório*) de onde será instalada nossa IDE Code::Blocks, neste caso, vou precisar apenas clicar em install.
+ * Pois bem, agora vamos precisar mudar caso necessário, o lugar (*diretório*) de onde será instalada nossa IDE Code::Blocks, neste caso, vou precisar apenas clicar em install.
 
-        ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks4.PNG)
+   ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks4.PNG)
 
-        * Finalizado a instalação agora podemos clicar em *"Sim"* e o Code::Blocks será iniciado para nós.
+ * Finalizado a instalação agora podemos clicar em *"Sim"* e o Code::Blocks será iniciado para nós.
 
-          ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks5.PNG)
+    ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks5.PNG)
 
-          E agora teremos a IDE rodando *bonitamente* como na imagem a seguir:
+   E agora teremos a IDE rodando *bonitamente* como na imagem a seguir:
 
-          ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks6.PNG)
+    ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks6.PNG)
 
   ## Após instalado os pacotes, podemos iniciar o teste!
 
