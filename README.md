@@ -25,7 +25,7 @@ Como podemos analisar na imagem logo acima deste texto que está lendo neste mom
 
 * E agora vamos fazer uma configuração básica do que será instalado junto do nosso compilador, como por exemplo os pacotes, então recomendo que deixe a opção *"TDM-GCC Recommnded, All Packages"* e em seguida no botão *"Install"* para darmos início na instalação propriamente dita.
 
-  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/instalation.png)
+  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/instalation.PNG)
 
 * Concluído a instalação, teremos uma tela como a imagem a seguir, mostrando o *status* de *"Completed successfully"* confirmando que a instalação foi completada com sucesso, e agora, já sabe, clique no botão *"Next >"*
 
@@ -35,29 +35,29 @@ Como podemos analisar na imagem logo acima deste texto que está lendo neste mom
 
 * Uma vez baixado e iniciado o instalador, estaremos diante de uma imagem similar com a imagem à seguir:
 
-  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks1.png)
+  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks1.PNG)
 
   Creio que não é preciso mencionar que vamos clicar em *"Next >"* não é mesmo ?
 
   * Aceite os termos de contrato e licença clicando em *"I Agree"* :
 
-    ![](https://github.com/bynmboy/gcc-windows-guide/tree/main/img/codeblocks2.png)
+    ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks2.PNG)
 
     * Na tela seguinte, podemos escolher quais componentes farão parte da instalação, "geralmente" por padrão já é possível visualizar que será instalado a opção mais completa, nos restando prosseguir clicando em *"Next >"*
 
-      ![](https://github.com/bynmboy/gcc-windows-guide/tree/main/img/codeblocks3.png)
+      ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks3.PNG)
 
       * Pois bem, agora vamos precisar mudar caso necessário, o lugar (*diretório*) de onde será instalada nossa IDE Code::Blocks, neste caso, vou precisar apenas clicar em install.
 
-        ![](https://github.com/bynmboy/gcc-windows-guide/tree/main/img/codeblocks4.png)
+        ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks4.PNG)
 
         * Finalizado a instalação agora podemos clicar em *"Sim"* e o Code::Blocks será iniciado para nós.
 
-          ![](https://github.com/bynmboy/gcc-windows-guide/tree/main/img/codeblocks5.png)
+          ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks5.PNG)
 
           E agora teremos a IDE rodando *bonitamente* como na imagem a seguir:
 
-          ![](https://github.com/bynmboy/gcc-windows-guide/tree/main/img/codeblocks6.png)
+          ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/codeblocks6.PNG)
 
   ## Após instalado os pacotes, podemos iniciar o teste!
 
@@ -78,7 +78,7 @@ Como podemos analisar na imagem logo acima deste texto que está lendo neste mom
 
 **exemplo**
 
-![](https://github.com/bynmboy/gcc-windows-guide/tree/main/img/helloworld.png)
+![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/helloworld.PNG)
 
 
 
@@ -86,27 +86,27 @@ Como podemos analisar na imagem logo acima deste texto que está lendo neste mom
 
 * criando o projeto:
 
-  ![](https://github.com/bynmboy/gcc-windows-guide/tree/main/img/newproject.png)
+  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/newproject.PNG)
 
   
 
 * Criamos um projeto vazio:
 
-  ![](https://github.com/bynmboy/gcc-windows-guide/tree/main/img/empty.png)
+  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/empty.PNG)
 
   
 
 * Definindo um nome, local para o projeto e depois em Next...
 
-  ![](https://github.com/bynmboy/gcc-windows-guide/tree/main/img/setname.png)
+  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/setname.PNG)
 
 * No meu caso criei uma nova biblioteca de nome *"Projetos C++"* e criei uma pasta designada a ser o diretório do projeto, chamada *"Projeto Testes"* e lá será gerada uma pasta contendo o projeto.
 
-  ![](https://github.com/bynmboy/gcc-windows-guide/tree/main/img/folder.png)
+  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/folder.PNG)
 
 * Em sequência precisamos definir um compilador, que no nosso caso será o ***"GNU GCC Compiler"*** e em seguida, clicamos no botão *"Finish"*.
 
-  ![](https://github.com/bynmboy/gcc-windows-guide/tree/main/img/compiler.png)
+  !Alt text[](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/compiler.PNG)
 
 * Agora precisamos criar um novo arquivo, mas um arquivo especifico que a IDE entenda que é um arquivo que servirá de base para nosso programa...
 
@@ -114,19 +114,19 @@ Como podemos analisar na imagem logo acima deste texto que está lendo neste mom
   * e depois em *"New"*
   * e por fim clicamos em *"From template..."*
 
-  ![](https://github.com/bynmboy/gcc-windows-guide/tree/main/img/file.png)
+  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/file.PNG)
 
 * Em sequência precisamos definir como este arquivo será, então clicamos em *"Files"*, depois vamos marcar a opção *"C/C++ source"* e damos continuidade clicando em *"Go"*
 
 * Depois em Next...
 
-  ![](https://github.com/bynmboy/gcc-windows-guide/tree/main/img/next.png)
+  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/next.PNG)
 
 * Agora na tela seguinte, marcamos o tipo de Linguagem que vamos usar, que neste caso, marcamos *"C++"* e prosseguimos clicando em *"Next"*
 
 * E por fim, damos um nome ao arquivo *não precisa de uma extensão específica* e clicamos no botão com *"três pontinhos (...)"*  e depois clicar no botão *"Save"*, e após isso, marcamos uma opção entre *"Debug"* ou *"Release"* ou quem sabe as duas, mas precisa ter ao menos uma, senão não será possível compilar o programa depois, feitos estes passos já será possível finalizar a criação do nosso arquivo e por fim criarmos nosso primeiro programa em C++.novamente em *"Next"*.
 
-  ![](https://github.com/bynmboy/gcc-windows-guide/tree/main/img/setname.png)
+  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/blob/main/img/setname.PNG)
 
 * E por fim testificamos o sucesso na preparação do ambiente criando nosso primeiro programa em C++ e mandamos rodar clicando no botão com um triângulo *"que na verdade é uma seta"*  verde sobreposta à uma engrenagem amarela e será executado no *"prompt"* do windows a mensagem *"Hello World!"* :) 
 
