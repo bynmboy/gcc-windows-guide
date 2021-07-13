@@ -7,13 +7,13 @@
 
 No link acima será possível desfrutar das opções de downloads para que possamos ter em nosso computador o compilador, que é responsável por transformar nossos códigos C++ em um binário executável capaz de reproduzir nosso programa ...
 
-![](./img/tdmgcc.png)
+![Alt text](./img/tdmgcc.png)
 
 Como podemos analisar na imagem logo acima deste texto que está lendo neste momento, está claro que podemos desfrutar de 3 opções de downloads que são eles, de cima para baixo: *"tdm-gcc-webdl.exe"* que é uma opção minimalista do instalador do compilador que vai te permitir selecionar os componentes que você deseja, baixá-los e por fim, instá-los em sua máquina, em sequência temos a segunda opção *"tdm64-gcc-10.3.0-2.exe"* esta é uma opção onde baixamos um instalador mais completo, que nos permite compilarmos programas não somente para arquitetura 32bits como para 64bits também, por estar marcado, já fica nítido que será ele que vamos usar, mas vamos seguir o ritmo e e compreender a terceira opção de download, diferentemente da opção que marcamos na imagem, esta terceira opção será usada caso o seu computador esteja usando um sistema operacional Windows com arquitetura de 32bits.
 
 * Depois de baixado e iniciado a instalação do instalador do compilador, podemos seguir passos simples mas necessários para instalarmos o compilador no computador, como por exemplo clicar no botão *"Create"* por hora, só é necessário saber que ele irá "criar" uma nova instalação, mas para não te deixar curioso e explicando de forma resumida, a opção *"Manage"* te permite remanejar uma instalação já existente em seu computador e *"Remove"* irá remover uma instalação já existente em sua máquina.
 
-  ![](https://github.com/bynmboy/gcc-windows-guide/tree/main/img/tdm-setup.png)
+  ![Alt text](https://github.com/bynmboy/gcc-windows-guide/tree/main/img/tdm-setup.png)
 
 * Agora vamos selecionar qual arquitetura queremos que o nosso compilador use como base para compilar nossos códigos, no meu caso vou margar a opção de baixo que diferente da opção de cima que só compila para 32 bits, ele compilará para 32 e 64bits, e prosseguimos clicando em *"Next >"*
 
