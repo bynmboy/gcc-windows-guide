@@ -1,0 +1,8 @@
+# Preparando o ambiente para Programar em C++ no Windows 
+
+## Instalação LLVM um frontend para compilar códigos C, C++, Fortran entre outros.
+
+* Acesse o site baixo para conhecer mais sobre o projeto LLVM [aqui](https://releases.llvm.org/download.html)
+
+![Alt text](https://github.com/bynmboy/linguagemcpp/blob/main/image-llvm-windows/img1.png)
+
