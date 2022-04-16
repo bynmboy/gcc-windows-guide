@@ -10,4 +10,6 @@ e desfrutar de tudo.
 * Guia de configuração do GCC e Code::Blocks para Windows [aqui](https://github.com/bynmboy/linguagemcpp/blob/main/windows-setup-gcc-codeblocks.md)
 * Guia de configuração do LLVM para Windows (11) [aqui](https://github.com/bynmboy/linguagemcpp/blob/main/windows-setup-llvm.md)
 
+![Alt_text](https://github.com/bynmboy/linguagemcpp/blob/main/logo-c%2B%2B.png)
+
 Att. Fabio Carneiro
