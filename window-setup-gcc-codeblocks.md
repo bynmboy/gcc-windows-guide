@@ -1,6 +1,7 @@
 # Preparando o ambiente para Programar em C++ no Windows 
 
-## Instalando o compilador G++
+## Instalação GCC um frontend para compilar códigos C, C++, Fortran entre outros.
+## Instalação do Code::Blocks uma IDE para desenvolvimento de programas em C, C++ e outros.
 
 * Acesse o site baixo para instalar o g++ para Windows clicando [aqui](https://jmeubank.github.io/tdm-gcc/articles/2021-05/10.3.0-release)
 
