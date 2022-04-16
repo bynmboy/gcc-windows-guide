@@ -23,7 +23,7 @@
 
 ![Alt_text](https://github.com/bynmboy/linguagemcpp/blob/main/image-llvm-windows/img4.png)
 
-* Em seguida, concordar com os termos, ou não, você que decide, mas sem para continuar com a instalação precisa clicar em "Eu Concordo".
+* Em seguida, concordar com os termos, ou não, você que decide, mas para continuar com a instalação precisa clicar em "Eu Concordo".
 
 ![Alt_text](https://github.com/bynmboy/linguagemcpp/blob/main/image-llvm-windows/img5.png)
 
