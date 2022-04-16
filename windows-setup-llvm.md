@@ -27,7 +27,7 @@
 
 ![Alt_text](https://github.com/bynmboy/linguagemcpp/blob/main/image-llvm-windows/img5.png)
 
-* Aqui ocorre algo intrigante, mesmo selecionando a opção marcada com marca texto em aparelo, selecionando para que seja adicionada ao PATH para todos os usuários poderem ter acesso ao clang, ainda assim não foi feito, mas mostro ainda neste guia como fazê-lo manualmente aqui no Windows 11. Caso queira adicinar um ícone à área de trabalho, marque a opção que tem um "?" em vermelho, e prossiga com a instalação clicando em "Próximo >".
+* Aqui ocorre algo intrigante, mesmo selecionando a opção marcada com marca texto em amarelo, selecionando para que seja adicionada ao PATH para todos os usuários poderem ter acesso ao clang, ainda assim não foi feito, mas mostro ainda neste guia como fazê-lo manualmente aqui no Windows 11. Caso queira adicinar um ícone à área de trabalho, marque a opção que tem um "?" em vermelho, e prossiga com a instalação clicando em "Próximo >".
 
 ![Alt_text](https://github.com/bynmboy/linguagemcpp/blob/main/image-llvm-windows/img6.png)
 
