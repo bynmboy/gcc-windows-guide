@@ -130,12 +130,12 @@ endl	//	->  esse cara é um "quebra-linha" ele diz onde uma linha acaba para se 
 
 
 
-### Quer apoiar o projeto e meu trabalho? faça um pix para a chave:
+<h3 align="center">Quer apoiar o projeto e meu trabalho? faça um pix para a chave:<h3>
 
-#### fabioaacarneiro@gmail.com
+    <h4 align="center">fabioaacarneiro@gmail.com</h4>
 
-#### NuBank, Fabio Aparecido Affonso Carneiro
+<h4 align="center">NuBank, Fabio Aparecido Affonso Carneiro</h4>
 
-#### a sua ajuda colaborará para a continuação deste livro e para realização de projetos futuros!
+<h4 align="center">A sua ajuda colaborará para a continuação deste livro e para realização de projetos futuros!</h4>
 
 <p  align="center"><img src="https://github.com/bynmboy/linguagemcpp/blob/main/logo-c%2B%2B.png" width="200" height="200"/></p>
