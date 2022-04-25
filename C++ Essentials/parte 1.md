@@ -53,7 +53,7 @@
 ```c++
 #include <iostream> // 1
 
-int main (int argc, char[] **argv) //2
+int main (int argc, char **argv[]) //2
 { // 3
     std::cout << "Aprendendo C++" << std::endl; // 4
     system("PAUSE"); // 5
