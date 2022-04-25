@@ -7,6 +7,11 @@ acompanhe a evolução do repositório e que ele faça parte da sua evolução c
 e desfrutar de tudo.
 
 <p align="center">
+  <ul>
+    <li>Guia de configuração do GCC e Code::Blocks para Windows <a href="https://github.com/bynmboy/linguagemcpp/blob/main/windows-setup-gcc-codeblocks.md">aqui</a></li>
+ </ul>
+ 
+ 
 ## Links dos tópicos do repositório:
 * Guia de configuração do GCC e Code::Blocks para Windows [aqui](https://github.com/bynmboy/linguagemcpp/blob/main/windows-setup-gcc-codeblocks.md)
 * Guia de configuração do LLVM para Windows (11) [aqui](https://github.com/bynmboy/linguagemcpp/blob/main/windows-setup-llvm.md)
