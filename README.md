@@ -6,8 +6,8 @@ e a maior quantidade possível de informaçôes úteis sobre a linguagem, será 
 acompanhe a evolução do repositório e que ele faça parte da sua evolução como desenvolvedor, aqui vou deixar links de "tópicos" para que você possa acessar
 e desfrutar de tudo.
 
-<p>
-  <ul align="center">
+<p align="center">
+  <ul>
     <li>Guia de configuração do GCC e Code::Blocks para Windows <a href="https://github.com/bynmboy/linguagemcpp/blob/main/windows-setup-gcc-codeblocks.md">aqui</a></li>
  </ul>
  
