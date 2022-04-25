@@ -12,6 +12,6 @@ e desfrutar de tudo.
 * Guia de instalação e configuraçâo do Notepad++ no Windows para C++ [aqui](https://github.com/bynmboy/linguagemcpp/blob/main/notepad%2B%2Bsetup-cpp.md)
 * Aprenda C++ com livro on-line em desenvolvimento por mim [aqui](https://github.com/bynmboy/linguagemcpp/blob/main/C%2B%2B%20Essentials/parte%201.md)
   
- <center><img src="https://github.com/bynmboy/linguagemcpp/blob/main/logo-c%2B%2B.png" width="200" height="200" /></center>
+ <p align="center"><img src="https://github.com/bynmboy/linguagemcpp/blob/main/logo-c%2B%2B.png" width="200" height="200" /></p>
 
 Att. Fabio Carneiro
