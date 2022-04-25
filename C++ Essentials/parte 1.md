@@ -138,4 +138,4 @@ endl	//	->  esse cara é um "quebra-linha" ele diz onde uma linha acaba para se 
 
 #### a sua ajuda colaborará para a continuação deste livro e para realização de projetos futuros!
 
-<img width="200" src="https://github.com/bynmboy/linguagemcpp/blob/main/README.md" alt="c++ logo"/>
+<img src="https://github.com/bynmboy/linguagemcpp/blob/main/logo-c%2B%2B.png" width="200" height="200" align="center"/>
