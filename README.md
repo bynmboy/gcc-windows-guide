@@ -13,5 +13,7 @@ e desfrutar de tudo.
 * Aprenda C++ com livro on-line em desenvolvimento por mim [aqui](https://github.com/bynmboy/linguagemcpp/blob/main/C%2B%2B%20Essentials/parte%201.md)
 
 [[https://github.com/bynmboy/linguagemcpp/blob/main/logo-c%2B%2B.png|width=200px]]
+  
+ <img src="https://github.com/bynmboy/linguagemcpp/blob/main/logo-c%2B%2B.png" width="200" height="200" />
 
 Att. Fabio Carneiro
