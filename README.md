@@ -10,6 +10,7 @@ e desfrutar de tudo.
 * Guia de configuração do GCC e Code::Blocks para Windows [aqui](https://github.com/bynmboy/linguagemcpp/blob/main/windows-setup-gcc-codeblocks.md)
 * Guia de configuração do LLVM para Windows (11) [aqui](https://github.com/bynmboy/linguagemcpp/blob/main/windows-setup-llvm.md)
 * Guia de instalação e configuraçâo do Notepad++ no Windows para C++ [aqui](https://github.com/bynmboy/linguagemcpp/blob/main/notepad%2B%2Bsetup-cpp.md)
+* Aprenda C++ com livro on-line em desenvolvimento por mim [aqui](https://github.com/bynmboy/linguagemcpp/blob/main/C%2B%2B%20Essentials/parte%201.md)
 
 ![Alt_text](https://github.com/bynmboy/linguagemcpp/blob/main/logo-c%2B%2B.png)
 
