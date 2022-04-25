@@ -1,6 +1,6 @@
-# <center><h1>C++ Essentials</h1></center>
+<h1 align="center">C++ Essentials</h1>
 
-<center><h3>Por Fabio Carneiro</h3></center>
+<h2 align="center">Por Fabio Carneiro</h2>
 
 
 
@@ -137,3 +137,5 @@ endl	//	->  esse cara é um "quebra-linha" ele diz onde uma linha acaba para se 
 #### NuBank, Fabio Aparecido Affonso Carneiro
 
 #### a sua ajuda colaborará para a continuação deste livro e para realização de projetos futuros!
+
+<img width="200" src="https://github.com/bynmboy/linguagemcpp/blob/main/README.md" alt="c++ logo"/>
