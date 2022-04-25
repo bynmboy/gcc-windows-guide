@@ -103,13 +103,13 @@ argv	//	->		nome do segundo parâmetro.
 std		//	->	std é um namespace, um indicativo que ele faz parte de um "grupo" de "coisas".
 ::		//	->	esse sinal representa que o que está a direita dele, pertence ao que está a esquerda dele "cout pertence à std".
 cout	//	->	esse por sua vez é o comando de saída de dados que pertence ao "namespace" que ainda vai aprender, de nome std.
-<<		//	->	esse sinal é "deslocamento de bits à esquerda" usamos para dizer que o que está a direita será deslocado para à 				esquerda, e nesse caso, o que vem a sua direia será direcionado para "cout".
-"Aprendendo C++"  //  ->  aqui temos uma "String" quando eu falar de tipos de dados entenderá melhor, mas é uma cadeia de letras 							ou cadeia de caracteres, usamos para passar valores alfanuméricos.
+<<		//	->	esse sinal é "deslocamento de bits à esquerda" usamos para dizer que o que está a direita será deslocado para à esquerda, e nesse caso, o que vem a sua direia será direcionado para "cout".
+"Aprendendo C++"  //  ->  aqui temos uma "String" quando eu falar de tipos de dados entenderá melhor, mas é uma cadeia de letras ou cadeia de caracteres, usamos para passar valores alfanuméricos.
 <<		//	->	deslocamento de bits à esquerda como citei anteriormente.
 std		//	->	namespace std que foi explicado seu uso.
 ::		//	->  operador de "resolução de escopo" também explicado seu uso.
-endl	//	->  esse cara é um "quebra-linha" ele diz onde uma linha acaba para se iniciar uma nova linha, mas esse em 		 	   				 específico vai além, não só quebra ou termina uma linha como ele faz o descarregamento de buffer, ele limpa o 					buffer se houver algo, mais pra frente aprenderá melhor sobre isso. 
-;		//	->	aqui definimos onde uma instrução termina, no caso da função main, ela termina com } e não precisa de ; para 					finalizar, mas quando temos uma instrução ou "uma linha de código" usamos o sinal de "ponto e virgula" para 					finalizar ela, sem o sinal colocado no final, seu programa dará erro e não irá compilar.
+endl	//	->  esse cara é um "quebra-linha" ele diz onde uma linha acaba para se iniciar uma nova linha, mas esse em específico vai além, não só quebra ou termina a linha como ele faz o descarregamento de buffer, ele limpa o buffer se houver algo, mais pra frente aprenderá melhor sobre isso. 
+;		//	->	aqui definimos onde uma instrução termina, no caso da função main, ela termina com } e não precisa de ; para finalizar, mas quando temos uma instrução ou "uma linha de código" usamos o sinal de "ponto e virgula" para finalizar ela, sem o sinal colocado no final, seu programa dará erro e não irá compilar.
 ```
 
 **N**o comentário " // 5 " temos uma instrução que só surtira efeitos em alguns casos e somente no sistema Windows, como por exemplo executar um programa pelo Visual Studio Community, quando mandar compilar e executar seu programa, uma janela de terminal se abrirá tão rápido que não conseguirá ver o que aconteceu, então utilizamos esta instrução para que o terminal fique aguardando você digitar algo para que ele feche, te permitindo ver o que seu programa mostrou no terminal antes de fechar, em caso de usar diretamente o terminal, esteja você utilizando um sistema Linux, Windows ou qualquer outro, essa instrução não terá utilidade.
