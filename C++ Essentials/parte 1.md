@@ -53,7 +53,7 @@
 ```c++
 #include <iostream> // 1
 
-int main (int argc, char **argv[]) //2
+int main (int argc, char *argv[]) //2
 { // 3
     std::cout << "Aprendendo C++" << std::endl; // 4
     system("PAUSE"); // 5
@@ -89,7 +89,7 @@ int 	//	->		tipo de dado do primeiro parâmetro.
 argc	//	->		nome do primeiro parâmetro.
 ,		//	->		a virgula aqui, representa que vamos ter um outro parâmetro, caso seja só um, não precisa ter ela.
 char	//	->		tipo de dado do segundo parâmetro.
-**		//	->		esse sinal representa um "ponteiro para ponteiro" ainda vai aprender sobre isso.
+*		//	->		esse sinal representa um "ponteiro" ainda vai aprender sobre isso.
 argv	//	->		nome do segundo parâmetro.
 []		//	->		isso representa um vetor, ainda vai aprender o que é vetor mas aqui dizemos que temos um vetor.
 )		//	->		fechamento da sessão de parâmetros da função main.
