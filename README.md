@@ -1,4 +1,4 @@
-<h1 align="center">linguagemcpp</h1>
+<h1 align="center">Linguagem C++</h1>
 
 ## Introdução
 Este repositório, usarei para adicionar informações úteis relacionadas à Linguagem C++, pretendo fazer deste, um repositório com a melhor didática possível
