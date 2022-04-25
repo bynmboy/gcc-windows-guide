@@ -103,7 +103,7 @@ argv	//	->		nome do segundo parâmetro.
 std		//	->	std é um namespace, um indicativo que ele faz parte de um "grupo" de "coisas".
 ::		//	->	esse sinal representa que o que está a direita dele, pertence ao que está a esquerda dele "cout pertence à std".
 cout	//	->	esse por sua vez é o comando de saída de dados que pertence ao "namespace" que ainda vai aprender, de nome std.
-<<		//	->	esse sinal é "deslocamento de bits à esquerda" usamos para dizer que o que está a direita será deslocado para à esquerda, e nesse caso, o que vem a sua direia será direcionado para "cout".
+<<		//	->	esse sinal é "deslocamento de bits à esquerda" e neste caso estamos fazendo uma sobreposição do operador para fluxo de saída, para dizer que o que está a direita será deslocado para à esquerda, e nesse caso, o que vem a sua direia será direcionado para "cout", direcionado para a saída.
 "Aprendendo C++"  //  ->  aqui temos uma "String" quando eu falar de tipos de dados entenderá melhor, mas é uma cadeia de letras ou cadeia de caracteres, usamos para passar valores alfanuméricos.
 <<		//	->	deslocamento de bits à esquerda como citei anteriormente.
 std		//	->	namespace std que foi explicado seu uso.
