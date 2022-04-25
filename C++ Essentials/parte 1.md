@@ -130,7 +130,7 @@ endl	//	->  esse cara é um "quebra-linha" ele diz onde uma linha acaba para se 
 
 
 
-<h3 align="center">Quer apoiar o projeto e meu trabalho? faça um pix para a chave:<h3>
+<h3 align="center">Quer apoiar o projeto e meu trabalho? Faça um pix para a chave:<h3>
 
 <h4 align="center">fabioaacarneiro@gmail.com</h4>
 
